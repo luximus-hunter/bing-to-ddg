@@ -2,6 +2,8 @@
 
 _Redirects all Bing URLs to DuckDuckGo. Made to go along with [EdgeDeflector](https://github.com/da2x/EdgeDeflector)_
 
+[![logo](./icon-128x.png)](https://github.com/luximus-hunter/bing-to-ddg/releases)
+
 ## Installing
 
 1. download the the latest [release](https://github.com/luximus-hunter/bing-to-ddg/releases) by clicking the "Source code (zip)" or "Source code (tar.gz)". Unpack.
