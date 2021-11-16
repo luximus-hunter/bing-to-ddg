@@ -2,11 +2,11 @@
 
 _Redirects all Bing URLs to DuckDuckGo. Made to go along with [EdgeDeflector](https://github.com/da2x/EdgeDeflector)_
 
-[![logo](./icon-128x.png)](https://github.com/luximus-hunter/bing-to-ddg/releases)
+[![logo](./icon-128x.png)](https://github.com/luximus-hunter/bing-to-ddg/releases/latest)
 
 ## Installing
 
-1. download the the latest [release](https://github.com/luximus-hunter/bing-to-ddg/releases) by clicking the "Source code (zip)" or "Source code (tar.gz)". Unpack.
+1. download the the latest [release](https://github.com/luximus-hunter/bing-to-ddg/releases/latest) by clicking the "Source code (zip)" or "Source code (tar.gz)". Unpack.
 2. Unpack the downloaded folder.
 3. Go into the unpacked folder and move the folder inside to a safe location. **If you delete it, the extension will be deleted from your browser**
 4. Open your browser and go to the [extension tab](chrome://extensions).
