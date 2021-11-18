@@ -1,10 +1,7 @@
-const url = window.location.href;
+const searchterm = new URL(window.location).searchParams.get("q") ?? "";
 
-if (url.includes('www.bing.com')) {
-  try {
-    const searchterm = url.split('?q=')[1].split('&')[0];
-    window.location.replace('https://duckduckgo.com/?q=' + searchterm);
-  } catch {
-    window.location.replace('https://start.duckduckgo.com/');
-  }
+try {
+  window.location = "https://duckduckgo.com/?q=" + searchterm;
+} catch {
+  window.location = "https://start.duckduckgo.com/";
 }
