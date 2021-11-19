@@ -1,4 +1,4 @@
-# Bing to DuckDuckGo
+# Bing to DuckDuckGo (v1.0.2)
 
 _Redirects all Bing URLs to DuckDuckGo. Made to go along with [EdgeDeflector](https://github.com/da2x/EdgeDeflector)_
 
